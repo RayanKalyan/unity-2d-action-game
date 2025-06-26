@@ -28,3 +28,21 @@ This is a 2D action platformer made with Unity. The player fights off enemies us
 > Will add gameplay GIFs or images here after final touches.
 
 ## 📁 Project Structure
+unity-2d-action-game/
+├── Assets/
+│   ├── Scripts/
+│   ├── Prefabs/
+│   ├── Scenes/
+│   ├── Sprites/
+│   └── Audio/
+└── ProjectSettings/
+
+## 🚀 Upcoming Additions
+
+- Ranged enemies
+- Power-ups and health pickups
+- Save/load system
+
+---
+
+Made with ❤️ in Unity by Rayan Kalyan
